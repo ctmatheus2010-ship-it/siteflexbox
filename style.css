@@ -1,0 +1,15 @@
+*{
+    background-color: hsl(200, 40%, 69%);
+    font-family: 'Times New Roman', Times, serif;
+font-style: normal;
+border-radius: 10px;
+font-weight: 400;
+}
+h1{
+    color: #000;
+    background-color: white;
+}
+hr{
+    color: aliceblue;
+    background-color: #ffff;
+}
